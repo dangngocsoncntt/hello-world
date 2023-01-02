@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning committed from local KTHT VNPT poll scm </h1>
+   <h1> Cap nhat chuc nang moi </h1>
 
   
 </form>
